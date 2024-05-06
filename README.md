@@ -1,4 +1,4 @@
-# # quiz_pirata_p5js
+# quiz_pirata_p5js
 
 > Jogo desenvolvido para antender algumas nescessidades educacionais
 

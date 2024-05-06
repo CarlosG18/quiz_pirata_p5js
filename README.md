@@ -13,7 +13,7 @@
 ## 🕹️ Descrição do jogo
 
 <p align="center">
-    <img width=350 src="./Imagens/tela_jogo.jpg"/>
+    <img width=450 src="./Imagens/tela_jogo.jpg"/>
 </p>
 
 <p align="center">Tela inicial do jogo Quiz do Pirata</p>
